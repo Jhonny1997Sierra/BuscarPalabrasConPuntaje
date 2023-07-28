@@ -1,0 +1,30 @@
+Contrasena 3
+Verificacion 2
+Cuenta 2
+Confirmacion 2
+Seguridad 2
+Actualizacion 2
+Suspension 2
+Acceso 3
+Urgente 3
+Ganador 2
+Oferta 2
+Premio 3
+Gratis 3
+Beneficios 1
+Verificar 3
+Caducidad 1
+Premiado 3
+Iniciar sesión 3
+Recuperar 1
+Ganar 3
+Gane dinero rapido 3
+Actualizacion de seguridad 1
+Confirmar informacion 3
+Problema de cuenta 1
+Restablecer contrasena 2
+Validar cuenta 1
+Comprobacion de identidad 3
+Problemas en su cuenta 1
+Vencimiento de cuenta 2
+Revision de seguridad 2
